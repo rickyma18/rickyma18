@@ -43,13 +43,13 @@ Además de mi faceta técnica, tengo más de 2 años de experiencia como árbitr
 
 ## 🔭 Proyectos Destacados
 
-### [Ventanas TDP](https://github.com/rickyma18/VentanasTDP)  
+### [Ventanas TDP](https://github.com/rickyma18/ventanas_tdp)  
 App Wear OS 3+ para gestión de cambios de jugadores en la TDP:  
 - Registra 3 ventanas y hasta 5 cambios por partido.  
 - Valida categorías (1 menor, 2 medianos en titulares).  
 - UI responsiva circular/rectangular en smartwatch.
 
-### [ChatTDP](https://github.com/rickyma18/ChatTDP)  
+### [ChatTDP](https://github.com/rickyma18/chattdp)  
 Asistente basado en OpenAI GPT para generar informes arbitrales:  
 - Descripciones automatizadas de faltas, tarjetas y goles.  
 - Arquitectura MVVM con Flutter.
