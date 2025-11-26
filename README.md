@@ -2,97 +2,111 @@
   <img src="https://github.com/rickyma18.png" alt="Ricardo Murillo" width="120" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">¡Hola! Soy Ricardo Murillo 👋</h1>
-<p align="center"><strong>Aspiring Cybersecurity Engineer</strong> | Árbitro profesional | Cofundador de Whistle Time</p>
+<h1 align="center">Hi! I'm Ricardo Murillo 👋</h1>
+<p align="center"><strong>Full-Stack & Mobile Developer | Cybersecurity Enthusiast | Co-Founder at SAURIC S.A. de C.V.</strong></p>
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with Me
 
-- ✉️ ricardomurillo.udg@gmail.com  
-- 📱 +52 332 220 6205  
-- GitHub: [@rickyma18](https://github.com/rickyma18)  
+- ✉️ **ricardomurillo.udg@gmail.com**
+- 📱 **+52 332 220 6205**
+- GitHub: [@rickyma18](https://github.com/rickyma18)
 - LinkedIn: [ricardo-murillo-22254a2b2](https://linkedin.com/in/ricardo-murillo-22254a2b2)
 
 ---
 
-## 📖 Sobre mí
+## 📖 About Me
 
-Soy estudiante de Ingeniería en Desarrollo de Software (CETI ’25), con especialidad en Ciberseguridad (GPA 93/100). Actualmente completo el **Google Cybersecurity Professional Certificate** (4/8 módulos). Me apasiona el pentesting, el hardening de infraestructuras y la automatización de flujos de seguridad.  
+I’m a **Software Engineer (CETI ’25)** with a strong focus on **Full-Stack Development, Mobile Apps (Flutter), and Cybersecurity**.  
+Co-founder of **SAURIC S.A. de C.V.**, where I build, maintain, and secure platforms used by real sports organizations (Liga TDP).
 
-Además de mi faceta técnica, tengo más de 2 años de experiencia como árbitro profesional en divisiones TDP y juvenil, donde desarrollé habilidades de gestión de incidentes en tiempo real y reporting forense.
-
----
-
-## 🚀 Habilidades principales
-
-- **Pentesting & Vulnerability Assessment**  
-  Metasploit · OWASP ZAP · Burp Suite · Nessus/OpenVAS  
-- **Redes & Forense**  
-  Nmap · Wireshark · ELK Stack  
-- **Scripting & DevOps**  
-  Python · Bash · GitHub Actions · CI/CD  
-- **Hardening & Cloud**  
-  Linux (Ubuntu/CentOS) hardening · AWS IAM · Docker  
-- **Bases de Datos**  
-  MySQL · Firestore (security rules, encryption)  
-- **Frameworks & Arquitectura**  
-  Flutter · Clean Architecture · MVVM · BLoC  
+I also have 2+ years of experience as a **professional football referee** (TDP divisions), developing skills in real-time incident response, decision-making under pressure, and structured reporting — all of which strengthen my technical discipline.
 
 ---
 
-## 🔭 Proyectos Destacados
+## 🚀 Core Skills
 
-### [Ventanas TDP](https://github.com/rickyma18/ventanas_tdp)  
-App Wear OS 3+ para gestión de cambios de jugadores en la TDP:  
-- Registra 3 ventanas y hasta 5 cambios por partido.  
-- Valida categorías (1 menor, 2 medianos en titulares).  
-- UI responsiva circular/rectangular en smartwatch.
+### 🧩 Development
+- **Full-Stack:** React · Next.js · Node.js · Express  
+- **Mobile:** Flutter · BLE integration · AES-128 encryption  
+- **Backend:** Firebase Admin SDK · REST APIs  
+- **Databases:** Firestore · MySQL  
 
-### [ChatTDP](https://github.com/rickyma18/chattdp)  
-Asistente basado en OpenAI GPT para generar informes arbitrales:  
-- Descripciones automatizadas de faltas, tarjetas y goles.  
-- Arquitectura MVVM con Flutter.
+### 🛡 Cybersecurity
+- Pentesting (OWASP ZAP · Nessus · OpenVAS · Metasploit)  
+- Threat detection & log analysis (ELK Stack)  
+- Secure authentication (JWT · OAuth2)  
+- Firestore security rules & API hardening  
 
-### [Whistle Time](https://github.com/rickyma18/whistle_time)  
-Plataforma para gestión de ligas amateur:  
-- Firestore con RBAC y JWT.  
-- Pentesting bimensual (Metasploit, OWASP ZAP).  
-- CI/CD con SonarQube y GitHub Actions.
-
----
-
-## 🎓 Formación y Certificaciones
-
-- **B.Sc. Ingeniería en Desarrollo de Software** (Especialidad en Ciberseguridad)  
-  CETI, Guadalajara | 2021–2025 (GPA 93/100)  
-- **Google Cybersecurity Professional Certificate** (Coursera) — En progreso (4/8 módulos)  
+### ⚙️ DevOps / Tooling
+- Git · GitHub Actions · Docker  
+- CI/CD · Linux (Ubuntu/CentOS)  
+- Postman · Bash scripting  
 
 ---
 
-## 🏅 Logros y Reconocimientos
+## 🔭 Featured Projects
 
-- Cofundador de **Whistle Time**, startup registrada en Jalisco.  
-- Árbitro profesional en Divisiones TDP y juvenil (2022–actualidad).  
-- Líder de equipos y coordinación de incidentes en tiempo real bajo presión.
+### 🔹 [Ventanas TDP](https://github.com/rickyma18/ventanas_tdp)  
+Wear OS 3+ app for managing player substitutions:
+- Tracks 3 substitution windows & up to 5 changes per match  
+- Validates youth category requirements  
+- Smartwatch-optimized circular/rectangular UI  
+
+### 🔹 [ChatTDP](https://github.com/rickyma18/chattdp)  
+OpenAI-powered assistant for generating referee incident reports:
+- Automated descriptions for fouls, cards, and goals  
+- MVVM architecture with Flutter  
+
+### 🔹 [Whistle Time](https://github.com/rickyma18/whistle_time)  
+League management platform (Web & Mobile):
+- Firestore RBAC + JWT integration  
+- CI/CD with GitHub Actions  
+- Scheduled vulnerability assessments  
+
+### 🔹 Assigner TDP (Private Repository)  
+Automated referee assignment engine:
+- Role logic, conflict detection, difficulty scoring  
+- Firestore deep modeling, server-side validation  
 
 ---
 
-## 🌱 Actualmente
+## 🎓 Education & Certifications
 
-- Finalizando el módulo 5 del Certificado de Ciberseguridad de Google.  
-- Explorando integraciones de SIEM y automatización de respuesta a incidentes.  
-- Mejorando mis skills en análisis forense digital y scripting avanzado.
+- **B.Sc. in Software Development Engineering**  
+  CETI, Guadalajara — Class of 2025 (GPA 95/100)
+
+- **Google Cybersecurity Professional Certificate**  
+  (In progress — advancing through module 5)
 
 ---
 
-## 📫 Cómo contactarme
+## 🏅 Highlights
 
-¿Tienes un reto de ciberseguridad o quieres charlar sobre arbitraje? ¡Escríbeme!  
-✉️ ricardomurillo.udg@gmail.com  
+- Co-founder of **SAURIC S.A. de C.V.**  
+- Developer of official tools used by **Liga TDP**  
+- Professional football referee (since 2022)  
+- Experience in high-pressure incident response environments  
+
+---
+
+## 🌱 Currently Working On
+
+- Completing Google Cybersecurity Certificate  
+- Improving forensic analysis skills  
+- Strengthening SIEM workflows and automation  
+- Building advanced Flutter/BLE features  
+
+---
+
+## 📫 Contact
+
+Want to collaborate or chat about tech, cyber, or football?  
+**Email me at:** `ricardomurillo.udg@gmail.com`
 
 ---
 
 <p align="center">
-  ¡Gracias por visitar mi perfil! 🚀
+  Thanks for visiting my profile! 🚀
 </p>
